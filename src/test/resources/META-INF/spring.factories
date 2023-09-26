@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = org.ppx.ai.bot.\
+    config.SqlTestContainersSpringContextCustomizerFactory
